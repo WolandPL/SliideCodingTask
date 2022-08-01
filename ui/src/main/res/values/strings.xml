@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sliide coding challenge</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="add_user">add user</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="enter_user_data">Enter user data</string>
+    <string name="empty_email">Email cannot be empty</string>
+    <string name="invalid_email">This is not a valid email address</string>
+    <string name="empty_name">Name cannot be empty</string>
+    <string name="delete_user_confirmation">Are you sure you want to remove this user?</string>
+    <string name="creation_time">Created %1$d seconds ago</string>
+    <string name="creation_time_unknown">Creation time unknown</string>
+</resources>
